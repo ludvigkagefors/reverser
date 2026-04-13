@@ -28,3 +28,7 @@ Leading zeroes are discarded.
 To run the tests, use:
 
 	make test
+
+Or simply call pytest:
+
+	PYTHONPATH=src pytest
